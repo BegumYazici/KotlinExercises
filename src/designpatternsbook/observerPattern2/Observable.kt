@@ -1,12 +1,12 @@
 package designpatternsbook.observerPattern2
 
-interface Subject {
+interface Observable {
     fun registerObserver(observer: Observer)
     fun removeObserver(observer: Observer)
     fun notifyObservers()
 }
 
-class WeatherData : Subject {
+class WeatherData : Observable {
     private var temperature: Float? = null
     private var humidity: Float? = null
     private var pressure: Float? = null

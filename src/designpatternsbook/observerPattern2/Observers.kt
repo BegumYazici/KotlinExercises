@@ -8,7 +8,7 @@ interface Display {
     fun display()
 }
 
-class CurrentConditionsDisplay(weatherData: Subject) : Observer, Display {
+class CurrentConditionsDisplay(weatherData: Observable) : Observer, Display {
     var temperature: Float? = null
     var pressure: Float? = null
     var humidity: Float? = null
@@ -32,7 +32,7 @@ class CurrentConditionsDisplay(weatherData: Subject) : Observer, Display {
     }
 }
 
-class StaticsDisplay(weatherData: Subject) : Observer, Display {
+class StaticsDisplay(weatherData: Observable) : Observer, Display {
     var temperature: Float? = null
     var pressure: Float? = null
     var humidity: Float? = null
@@ -56,7 +56,7 @@ class StaticsDisplay(weatherData: Subject) : Observer, Display {
     }
 }
 
-class ForecastDisplay(weatherData: Subject) : Observer, Display {
+class ForecastDisplay(weatherData: Observable) : Observer, Display {
     var temperature: Float? = null
     var pressure: Float? = null
     var humidity: Float? = null
@@ -78,4 +78,14 @@ class ForecastDisplay(weatherData: Subject) : Observer, Display {
         println("Humidity : $humidity")
         println("Pressure : $pressure")
     }
+}
+
+fun main(args: Array<String>) {
+
+    val weatherData = WeatherData()
+    val currentConditionsDisplay = CurrentConditionsDisplay(weatherData)
+    val staticsDisplay = StaticsDisplay(weatherData)
+    val forecastDisplay = ForecastDisplay(weatherData)
+
+    weatherData.setMeasurements(70.0f,49.5f,50.8f)
 }
