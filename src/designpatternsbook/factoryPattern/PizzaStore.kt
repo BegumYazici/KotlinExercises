@@ -1,9 +1,9 @@
 package designpatternsbook.factoryPattern
 
 abstract class PizzaStore {
+
     fun orderPizza(type: String): Pizza {
-        var pizza = Pizza()
-        pizza = createPizza(type)
+        val pizza : Pizza = createPizza(type)
 
         pizza.prepare()
         pizza.bake()
@@ -18,12 +18,17 @@ abstract class PizzaStore {
 
 class NYPizzaStore : PizzaStore(){
     override fun createPizza(type: String): Pizza {
-        TODO("Not yet implemented")
+        if(type == "cheese"){
+            return NYStyleCheesePizza()
+        }else if(type == "pepperoni"){
+            return NYStylePepperoniPizza()
+        }
+        return NYStyleCheesePizza()
     }
 }
 
 class ChicagoPizzaStore: PizzaStore(){
     override fun createPizza(type: String): Pizza {
-        TODO("Not yet implemented")
+        return ChicagoStyleCheesePizza()
     }
 }
