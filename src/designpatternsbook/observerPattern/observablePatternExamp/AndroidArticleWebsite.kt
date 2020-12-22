@@ -1,4 +1,4 @@
-package designpatternsbook.observerPattern2.observablePatternExamp
+package designpatternsbook.observerPattern.observablePatternExamp
 
 //The interface, the IObservable,
 //is responsible for holding the information about all of the observers and sending update events to them.

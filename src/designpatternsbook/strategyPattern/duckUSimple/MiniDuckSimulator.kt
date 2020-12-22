@@ -1,4 +1,4 @@
-package designpatternsbook.theStrategyPattern1.duckUSimple
+package designpatternsbook.strategyPattern.duckUSimple
 
 fun main(args: Array<String>) {
 

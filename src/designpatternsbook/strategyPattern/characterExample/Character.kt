@@ -1,4 +1,4 @@
-package designpatternsbook.theStrategyPattern1.characterExample
+package designpatternsbook.strategyPattern.characterExample
 
 abstract class Character {
 

@@ -1,4 +1,4 @@
-package designpatternsbook.observerPattern2
+package designpatternsbook.observerPattern
 
 interface Observer {
     fun update(temperature: Float, humidity: Float, pressure: Float)

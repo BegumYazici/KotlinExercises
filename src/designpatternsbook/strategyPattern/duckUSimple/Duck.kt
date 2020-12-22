@@ -1,4 +1,4 @@
-package designpatternsbook.theStrategyPattern1.duckUSimple
+package designpatternsbook.strategyPattern.duckUSimple
 
 open class Duck {
 

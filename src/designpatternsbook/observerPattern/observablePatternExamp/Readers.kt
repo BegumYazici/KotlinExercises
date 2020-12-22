@@ -1,4 +1,4 @@
-package designpatternsbook.observerPattern2.observablePatternExamp
+package designpatternsbook.observerPattern.observablePatternExamp
 
 interface IObserver{
 

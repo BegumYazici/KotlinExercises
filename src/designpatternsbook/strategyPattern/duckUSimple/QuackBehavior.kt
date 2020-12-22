@@ -1,4 +1,4 @@
-package designpatternsbook.theStrategyPattern1.duckUSimple
+package designpatternsbook.strategyPattern.duckUSimple
 
 interface QuackBehavior {
     fun quack()

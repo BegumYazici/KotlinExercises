@@ -1,4 +1,4 @@
-package designpatternsbook.observerPattern2
+package designpatternsbook.observerPattern
 
 interface Observable {
     fun registerObserver(observer: Observer)
