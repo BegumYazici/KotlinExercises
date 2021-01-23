@@ -1,4 +1,4 @@
-package designpatternsbook.factoryPattern
+package designpatternsbook.factoryPattern.examp1
 
 abstract class PizzaStore {
 

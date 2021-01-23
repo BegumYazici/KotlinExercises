@@ -1,4 +1,7 @@
 package designpatternsbook.factoryPattern.examp2
 
-class Main {
+fun main(args: Array<String>) {
+
+    val holidayFactory = HolidayFactory()
+    holidayFactory.planHoliday(3,HolidayType.CULTURE).holidayInfo()
 }

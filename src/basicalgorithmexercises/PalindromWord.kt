@@ -4,12 +4,25 @@ package basicalgorithmexercises
 
 fun main(args: Array<String>) {
 
+    val result = isThisWordPalindrom("aaa")
 
+    if (result) {
+        println("These words are palindrom")
+    } else {
+        println("These words aren't palindrom")
+    }
 }
 
 
-fun reverseTheWord(word: String){
+fun isThisWordPalindrom(word: String): Boolean {
 
-     
+    val reverseWord = StringBuilder()
 
+
+    for (i in word.length - 1 downTo 0) {
+        reverseWord.append(word[i])
+    }
+
+
+    return reverseWord.toString() == word
 }
