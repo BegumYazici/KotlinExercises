@@ -2,316 +2,293 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="090555a8-ce7f-494a-9231-81082fb5f400" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/basicalgorithmexercises/PalindromWord.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/basicalgorithmexercises/ReverseNumber.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/basicalgorithmexercises/SwapTwoNumbers.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/designpatternsbook/factoryPattern/examp2/Holiday.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/designpatternsbook/factoryPattern/examp2/HolidayAgency.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/designpatternsbook/factoryPattern/examp2/Main2.kt" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/factoryPattern/ChicagoPizzaStore.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/factoryPattern/ChicagoStyleCheesePizza.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/factoryPattern/MainKt.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/factoryPattern/NYPizzaStore.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/factoryPattern/NYStyleCheesePizza.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/factoryPattern/Pizza.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/factoryPattern/PizzaStore.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/observerPattern2/CurrentConditionsDisplay.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/observerPattern2/Display.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/observerPattern2/ForecastDisplay.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/observerPattern2/Observable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/observerPattern2/Observer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/observerPattern2/ObserversKt.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/observerPattern2/StaticsDisplay.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/observerPattern2/WeatherData.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/observerPattern2/observablePatternExamp/AndroidWebsiteNewsLetter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/observerPattern2/observablePatternExamp/AndroidWebsiteReader.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/observerPattern2/observablePatternExamp/IObservable$DefaultImpls.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/observerPattern2/observablePatternExamp/IObservable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/observerPattern2/observablePatternExamp/IObserver.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/observerPattern2/observablePatternExamp/ReadersKt.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/theStrategyPattern1/characterExample/AxeBehavior.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/theStrategyPattern1/characterExample/BoxAndArrowBehavior.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/theStrategyPattern1/characterExample/Character.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/theStrategyPattern1/characterExample/CharacterMiniSimulatorKt.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/theStrategyPattern1/characterExample/King.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/theStrategyPattern1/characterExample/KnifeBehavior.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/theStrategyPattern1/characterExample/Knight.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/theStrategyPattern1/characterExample/Queen.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/theStrategyPattern1/characterExample/SwordBehavior.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/theStrategyPattern1/characterExample/Troll.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/theStrategyPattern1/characterExample/WeaponBehavior.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/theStrategyPattern1/duckUSimple/Duck.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/theStrategyPattern1/duckUSimple/FlyBehavior.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/theStrategyPattern1/duckUSimple/FlyNoWay.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/theStrategyPattern1/duckUSimple/FlyRocketPowered.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/theStrategyPattern1/duckUSimple/FlyWithWings.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/theStrategyPattern1/duckUSimple/MallarDuck.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/theStrategyPattern1/duckUSimple/MiniDuckSimulatorKt.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/theStrategyPattern1/duckUSimple/ModelDuck.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/theStrategyPattern1/duckUSimple/MuteQuack.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/theStrategyPattern1/duckUSimple/Quack.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/theStrategyPattern1/duckUSimple/QuackBehavior.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/theStrategyPattern1/duckUSimple/Squeak.class" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/designpatternsbook/factoryPattern/Main.kt" afterPath="$PROJECT_DIR$/src/designpatternsbook/factoryPattern/examp1/Main.kt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/designpatternsbook/factoryPattern/Pizza.kt" afterPath="$PROJECT_DIR$/src/designpatternsbook/factoryPattern/examp1/Pizza.kt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/designpatternsbook/factoryPattern/PizzaStore.kt" afterPath="$PROJECT_DIR$/src/designpatternsbook/factoryPattern/examp1/PizzaStore.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/basicalgorithmexercises/EvenOrOdd.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/basicalgorithmexercises/FindTheFrequencyOfCharacter.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/basicalgorithmexercises/RemoveGapFromSentence.kt" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/decoratorPattern/Beverage.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/decoratorPattern/Decaf.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/factoryPattern/examp1/ChicagoPizzaStore.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/factoryPattern/examp1/ChicagoStyleCheesePizza.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/factoryPattern/examp1/MainKt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/factoryPattern/examp1/NYPizzaStore.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/factoryPattern/examp1/NYStyleCheesePizza.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/factoryPattern/examp1/NYStylePepperoniPizza.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/factoryPattern/examp1/Pizza.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/factoryPattern/examp1/PizzaStore.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/factoryPattern/examp2/CruiseHoliday.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/factoryPattern/examp2/CruiseHolidayAgency.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/factoryPattern/examp2/CultureHoliday.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/factoryPattern/examp2/CultureHolidayAgency.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/factoryPattern/examp2/Holiday.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/factoryPattern/examp2/HolidayAgency.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/factoryPattern/examp2/HolidayFactory$WhenMappings.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/factoryPattern/examp2/HolidayFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/factoryPattern/examp2/HolidayType.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/factoryPattern/examp2/Main2Kt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/observerPattern/CurrentConditionsDisplay.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/observerPattern/Display.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/observerPattern/ForecastDisplay.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/observerPattern/Observable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/observerPattern/Observer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/observerPattern/ObserversKt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/observerPattern/StaticsDisplay.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/observerPattern/WeatherData.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/observerPattern/observablePatternExamp/AndroidWebsiteNewsLetter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/observerPattern/observablePatternExamp/AndroidWebsiteReader.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/observerPattern/observablePatternExamp/IObservable$DefaultImpls.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/observerPattern/observablePatternExamp/IObservable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/observerPattern/observablePatternExamp/IObserver.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/observerPattern/observablePatternExamp/ReadersKt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/strategyPattern/characterExample/AxeBehavior.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/strategyPattern/characterExample/BoxAndArrowBehavior.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/strategyPattern/characterExample/Character.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/strategyPattern/characterExample/CharacterMiniSimulatorKt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/strategyPattern/characterExample/King.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/strategyPattern/characterExample/KnifeBehavior.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/strategyPattern/characterExample/Knight.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/strategyPattern/characterExample/Queen.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/strategyPattern/characterExample/SwordBehavior.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/strategyPattern/characterExample/Troll.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/strategyPattern/characterExample/WeaponBehavior.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/strategyPattern/duckUSimple/Duck.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/strategyPattern/duckUSimple/FlyBehavior.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/strategyPattern/duckUSimple/FlyNoWay.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/strategyPattern/duckUSimple/FlyRocketPowered.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/strategyPattern/duckUSimple/FlyWithWings.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/strategyPattern/duckUSimple/MallarDuck.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/strategyPattern/duckUSimple/MiniDuckSimulatorKt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/strategyPattern/duckUSimple/ModelDuck.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/strategyPattern/duckUSimple/MuteQuack.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/strategyPattern/duckUSimple/Quack.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/strategyPattern/duckUSimple/QuackBehavior.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/strategyPattern/duckUSimple/Squeak.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter1/Examp1Kt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter1/Example2Kt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter1/Okul$b$person2$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter1/Okul.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter1/Person.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter10/Cat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter10/Contest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter10/Dog.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter10/Example23Kt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter10/Fish.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter10/Pet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter10/PetOwner.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter10/PetsKt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter11/Example24Kt$main$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter11/Example24Kt$main$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter11/Example24Kt$main$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter11/Example24Kt$main$addFive$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter11/Example24Kt$main$addInts$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter11/Example24Kt$main$addTwo$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter11/Example24Kt$main$addTwoEquals$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter11/Example24Kt$main$lam1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter11/Example24Kt$main$lam4$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter11/Example24Kt$main$lamdaDeneme$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter11/Example24Kt$main$sum$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter11/Example24Kt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter11/Example25Kt$main$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter11/Example25Kt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter11/Example26Kt$main$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter11/Example26Kt$main$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter11/Example26Kt$main$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter11/Example26Kt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter11/Example27Kt$myFun2$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter11/Example27Kt$myFun3$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter11/Example27Kt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter11/Grocery.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter11/LambdasKt$combine$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter11/LambdasKt$getConversionLambda$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter11/LambdasKt$getConversionLambda$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter11/LambdasKt$getConversionLambda$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter11/LambdasKt$getConversionLambda$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter11/LambdasKt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter12/Cat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter12/Contest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter12/Dog.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter12/Example28Kt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter12/Example30Kt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter12/Fish.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter12/Groceries.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter12/Groceries2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter12/Groceries2Kt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter12/Groceries3Kt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter12/GroceriesKt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter12/Grocery3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter12/Pet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter12/Pizza.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter2/Example3Kt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter2/Example4Kt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter2/Example5Kt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter2/Example6Kt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter2/GameFuncKt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter2/PhraseOMatic/PhraseOMaticKt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter3/GameKt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter4/DVDPlayer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter4/Dog.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter4/DogsKt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter4/DrumKit.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter4/DrumKitKt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter4/Example7Kt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter4/Example8Kt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter4/Rectangle.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter4/RectangleKt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter4/Song.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter4/SongsKt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter4/TapeDeck.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter5/Animal.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter5/AnimalsKt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter5/Canine.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter5/Dragon.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter5/Hippo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter5/Monster.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter5/MonsterKt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter5/Vampyre.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter5/Vet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter5/Wolf.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Alpha.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Animal.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/AnimalsAbstractKt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Appliance.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Bar.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Baz.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Bird.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Canine.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Cheetah.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/CoffeeMaker.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Example11Kt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Example9Kt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Fee.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Feline.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Fi.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Flyable$DefaultImpls.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Flyable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Fo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Foo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Fox.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Fum.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Hippo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Lion.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Lynx.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Omege.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Plane.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Roamable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/SuperHero.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Tip.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Top.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Vehicle.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Vet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Wolf.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter7/Example12Kt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter7/Example13Kt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter7/Movie.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter7/Mushroom.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter7/Recipe.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter7/RecipesKt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter7/Song.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter7/Student.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter8/AppKt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter8/BadException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter8/BadException2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter8/Cat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter8/Cat2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter8/Cat3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter8/Duck.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter8/Example14Kt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter8/Example15Kt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter8/Example16Kt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter8/Example17Kt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter8/Example18Kt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter8/MyDucks.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter8/MyWolf.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter8/Wolf.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter9/CollectionsKt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter9/Duck.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter9/Duck2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter9/Duck3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter9/Duck4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter9/Example19Kt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter9/Example20Kt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter9/Example21Kt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter9/Example22Kt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter9/Example23Kt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter9/ListCollectionsKt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter9/MutableCollectionsKt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter9/Recipe3.class" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/designpatternsbook/decoratorPattern/Beverage.kt" afterPath="$PROJECT_DIR$/src/headfirstdesignpatternsexamples/decoratorPattern/Beverage.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/designpatternsbook/factoryPattern/examp1/Main.kt" afterPath="$PROJECT_DIR$/src/headfirstdesignpatternsexamples/factoryPattern/examp1/Main.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/designpatternsbook/factoryPattern/examp1/Pizza.kt" afterPath="$PROJECT_DIR$/src/headfirstdesignpatternsexamples/factoryPattern/examp1/Pizza.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/designpatternsbook/factoryPattern/examp1/PizzaStore.kt" afterPath="$PROJECT_DIR$/src/headfirstdesignpatternsexamples/factoryPattern/examp1/PizzaStore.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/designpatternsbook/factoryPattern/examp2/Holiday.kt" afterPath="$PROJECT_DIR$/src/headfirstdesignpatternsexamples/factoryPattern/examp2/Holiday.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/designpatternsbook/factoryPattern/examp2/HolidayAgency.kt" afterPath="$PROJECT_DIR$/src/headfirstdesignpatternsexamples/factoryPattern/examp2/HolidayAgency.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/designpatternsbook/factoryPattern/examp2/Main2.kt" afterPath="$PROJECT_DIR$/src/headfirstdesignpatternsexamples/factoryPattern/examp2/Main2.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/designpatternsbook/observerPattern/Observable.kt" afterPath="$PROJECT_DIR$/src/headfirstdesignpatternsexamples/observerPattern/Observable.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/designpatternsbook/observerPattern/Observers.kt" afterPath="$PROJECT_DIR$/src/headfirstdesignpatternsexamples/observerPattern/Observers.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/designpatternsbook/observerPattern/observablePatternExamp/AndroidArticleWebsite.kt" afterPath="$PROJECT_DIR$/src/headfirstdesignpatternsexamples/observerPattern/observablePatternExamp/AndroidArticleWebsite.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/designpatternsbook/observerPattern/observablePatternExamp/Readers.kt" afterPath="$PROJECT_DIR$/src/headfirstdesignpatternsexamples/observerPattern/observablePatternExamp/Readers.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/designpatternsbook/strategyPattern/characterExample/Character.kt" afterPath="$PROJECT_DIR$/src/headfirstdesignpatternsexamples/strategyPattern/characterExample/Character.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/designpatternsbook/strategyPattern/characterExample/CharacterMiniSimulator.kt" afterPath="$PROJECT_DIR$/src/headfirstdesignpatternsexamples/strategyPattern/characterExample/CharacterMiniSimulator.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/designpatternsbook/strategyPattern/characterExample/WeaponBehavior.kt" afterPath="$PROJECT_DIR$/src/headfirstdesignpatternsexamples/strategyPattern/characterExample/WeaponBehavior.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/designpatternsbook/strategyPattern/duckUSimple/Duck.kt" afterPath="$PROJECT_DIR$/src/headfirstdesignpatternsexamples/strategyPattern/duckUSimple/Duck.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/designpatternsbook/strategyPattern/duckUSimple/FlyBehavior.kt" afterPath="$PROJECT_DIR$/src/headfirstdesignpatternsexamples/strategyPattern/duckUSimple/FlyBehavior.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/designpatternsbook/strategyPattern/duckUSimple/MiniDuckSimulator.kt" afterPath="$PROJECT_DIR$/src/headfirstdesignpatternsexamples/strategyPattern/duckUSimple/MiniDuckSimulator.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/designpatternsbook/strategyPattern/duckUSimple/QuackBehavior.kt" afterPath="$PROJECT_DIR$/src/headfirstdesignpatternsexamples/strategyPattern/duckUSimple/QuackBehavior.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/kotlinbook/chapter1/Examp1.kt" afterPath="$PROJECT_DIR$/src/headfirstkotlinexamples/chapter1/Examp1.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/kotlinbook/chapter1/Example2.kt" afterPath="$PROJECT_DIR$/src/headfirstkotlinexamples/chapter1/Example2.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/kotlinbook/chapter10/Example23.kt" afterPath="$PROJECT_DIR$/src/headfirstkotlinexamples/chapter10/Example23.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/kotlinbook/chapter10/Pets.kt" afterPath="$PROJECT_DIR$/src/headfirstkotlinexamples/chapter10/Pets.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/kotlinbook/chapter11/Example24.kt" afterPath="$PROJECT_DIR$/src/headfirstkotlinexamples/chapter11/Example24.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/kotlinbook/chapter11/Example25.kt" afterPath="$PROJECT_DIR$/src/headfirstkotlinexamples/chapter11/Example25.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/kotlinbook/chapter11/Example26.kt" afterPath="$PROJECT_DIR$/src/headfirstkotlinexamples/chapter11/Example26.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/kotlinbook/chapter11/Example27.kt" afterPath="$PROJECT_DIR$/src/headfirstkotlinexamples/chapter11/Example27.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/kotlinbook/chapter11/Lambdas.kt" afterPath="$PROJECT_DIR$/src/headfirstkotlinexamples/chapter11/Lambdas.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/kotlinbook/chapter12/Example28.kt" afterPath="$PROJECT_DIR$/src/headfirstkotlinexamples/chapter12/Example28.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/kotlinbook/chapter12/Example29.kt" afterPath="$PROJECT_DIR$/src/headfirstkotlinexamples/chapter12/Example29.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/kotlinbook/chapter12/Example30.kt" afterPath="$PROJECT_DIR$/src/headfirstkotlinexamples/chapter12/Example30.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/kotlinbook/chapter12/Groceries.kt" afterPath="$PROJECT_DIR$/src/headfirstkotlinexamples/chapter12/Groceries.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/kotlinbook/chapter12/Groceries2.kt" afterPath="$PROJECT_DIR$/src/headfirstkotlinexamples/chapter12/Groceries2.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/kotlinbook/chapter12/Groceries3.kt" afterPath="$PROJECT_DIR$/src/headfirstkotlinexamples/chapter12/Groceries3.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/kotlinbook/chapter2/Example3.kt" afterPath="$PROJECT_DIR$/src/headfirstkotlinexamples/chapter2/Example3.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/kotlinbook/chapter2/Example4.kt" afterPath="$PROJECT_DIR$/src/headfirstkotlinexamples/chapter2/Example4.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/kotlinbook/chapter2/Example5.kt" afterPath="$PROJECT_DIR$/src/headfirstkotlinexamples/chapter2/Example5.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/kotlinbook/chapter2/Example6.kt" afterPath="$PROJECT_DIR$/src/headfirstkotlinexamples/chapter2/Example6.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/kotlinbook/chapter2/GameFunc.kt" afterPath="$PROJECT_DIR$/src/headfirstkotlinexamples/chapter2/GameFunc.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/kotlinbook/chapter2/PhraseOMatic/PhraseOMatic.kt" afterPath="$PROJECT_DIR$/src/headfirstkotlinexamples/chapter2/PhraseOMatic/PhraseOMatic.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/kotlinbook/chapter3/Game.kt" afterPath="$PROJECT_DIR$/src/headfirstkotlinexamples/chapter3/Game.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/kotlinbook/chapter4/Dogs.kt" afterPath="$PROJECT_DIR$/src/headfirstkotlinexamples/chapter4/Dogs.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/kotlinbook/chapter4/DrumKit.kt" afterPath="$PROJECT_DIR$/src/headfirstkotlinexamples/chapter4/DrumKit.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/kotlinbook/chapter4/Example7.kt" afterPath="$PROJECT_DIR$/src/headfirstkotlinexamples/chapter4/Example7.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/kotlinbook/chapter4/Example8.kt" afterPath="$PROJECT_DIR$/src/headfirstkotlinexamples/chapter4/Example8.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/kotlinbook/chapter4/Rectangle.kt" afterPath="$PROJECT_DIR$/src/headfirstkotlinexamples/chapter4/Rectangle.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/kotlinbook/chapter4/Songs.kt" afterPath="$PROJECT_DIR$/src/headfirstkotlinexamples/chapter4/Songs.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/kotlinbook/chapter5/Animals.kt" afterPath="$PROJECT_DIR$/src/headfirstkotlinexamples/chapter5/Animals.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/kotlinbook/chapter5/Monster.kt" afterPath="$PROJECT_DIR$/src/headfirstkotlinexamples/chapter5/Monster.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/kotlinbook/chapter6/AnimalsAbstract.kt" afterPath="$PROJECT_DIR$/src/headfirstkotlinexamples/chapter6/AnimalsAbstract.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/kotlinbook/chapter6/Example10.kt" afterPath="$PROJECT_DIR$/src/headfirstkotlinexamples/chapter6/Example10.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/kotlinbook/chapter6/Example11.kt" afterPath="$PROJECT_DIR$/src/headfirstkotlinexamples/chapter6/Example11.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/kotlinbook/chapter6/Example9.kt" afterPath="$PROJECT_DIR$/src/headfirstkotlinexamples/chapter6/Example9.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/kotlinbook/chapter7/Example12.kt" afterPath="$PROJECT_DIR$/src/headfirstkotlinexamples/chapter7/Example12.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/kotlinbook/chapter7/Example13.kt" afterPath="$PROJECT_DIR$/src/headfirstkotlinexamples/chapter7/Example13.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/kotlinbook/chapter7/Recipes.kt" afterPath="$PROJECT_DIR$/src/headfirstkotlinexamples/chapter7/Recipes.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/kotlinbook/chapter8/App.kt" afterPath="$PROJECT_DIR$/src/headfirstkotlinexamples/chapter8/App.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/kotlinbook/chapter8/Duck.kt" afterPath="$PROJECT_DIR$/src/headfirstkotlinexamples/chapter8/Duck.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/kotlinbook/chapter8/Example14.kt" afterPath="$PROJECT_DIR$/src/headfirstkotlinexamples/chapter8/Example14.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/kotlinbook/chapter8/Example15.kt" afterPath="$PROJECT_DIR$/src/headfirstkotlinexamples/chapter8/Example15.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/kotlinbook/chapter8/Example16.kt" afterPath="$PROJECT_DIR$/src/headfirstkotlinexamples/chapter8/Example16.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/kotlinbook/chapter8/Example17.kt" afterPath="$PROJECT_DIR$/src/headfirstkotlinexamples/chapter8/Example17.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/kotlinbook/chapter8/Example18.kt" afterPath="$PROJECT_DIR$/src/headfirstkotlinexamples/chapter8/Example18.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/kotlinbook/chapter9/Collections.kt" afterPath="$PROJECT_DIR$/src/headfirstkotlinexamples/chapter9/Collections.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/kotlinbook/chapter9/Example19.kt" afterPath="$PROJECT_DIR$/src/headfirstkotlinexamples/chapter9/Example19.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/kotlinbook/chapter9/Example20.kt" afterPath="$PROJECT_DIR$/src/headfirstkotlinexamples/chapter9/Example20.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/kotlinbook/chapter9/Example21.kt" afterPath="$PROJECT_DIR$/src/headfirstkotlinexamples/chapter9/Example21.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/kotlinbook/chapter9/Example22.kt" afterPath="$PROJECT_DIR$/src/headfirstkotlinexamples/chapter9/Example22.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/kotlinbook/chapter9/Example23.kt" afterPath="$PROJECT_DIR$/src/headfirstkotlinexamples/chapter9/Example23.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/kotlinbook/chapter9/ListCollections.kt" afterPath="$PROJECT_DIR$/src/headfirstkotlinexamples/chapter9/ListCollections.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/kotlinbook/chapter9/MutableCollections.kt" afterPath="$PROJECT_DIR$/src/headfirstkotlinexamples/chapter9/MutableCollections.kt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/META-INF/KotlinBook.kotlin_module" afterPath="$PROJECT_DIR$/out/production/KotlinBook/META-INF/KotlinBook.kotlin_module" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/decoratorPattern/Beverage.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/decoratorPattern/Beverage.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/decoratorPattern/Decaf.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/decoratorPattern/Decaf.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/observerPattern/CurrentConditionsDisplay.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/observerPattern/CurrentConditionsDisplay.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/observerPattern/Display.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/observerPattern/Display.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/observerPattern/ForecastDisplay.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/observerPattern/ForecastDisplay.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/observerPattern/Observable.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/observerPattern/Observable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/observerPattern/Observer.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/observerPattern/Observer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/observerPattern/ObserversKt.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/observerPattern/ObserversKt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/observerPattern/StaticsDisplay.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/observerPattern/StaticsDisplay.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/observerPattern/WeatherData.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/observerPattern/WeatherData.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/observerPattern/observablePatternExamp/AndroidWebsiteNewsLetter.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/observerPattern/observablePatternExamp/AndroidWebsiteNewsLetter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/observerPattern/observablePatternExamp/AndroidWebsiteReader.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/observerPattern/observablePatternExamp/AndroidWebsiteReader.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/observerPattern/observablePatternExamp/IObservable$DefaultImpls.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/observerPattern/observablePatternExamp/IObservable$DefaultImpls.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/observerPattern/observablePatternExamp/IObservable.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/observerPattern/observablePatternExamp/IObservable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/observerPattern/observablePatternExamp/IObserver.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/observerPattern/observablePatternExamp/IObserver.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/observerPattern/observablePatternExamp/ReadersKt.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/observerPattern/observablePatternExamp/ReadersKt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/strategyPattern/characterExample/AxeBehavior.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/strategyPattern/characterExample/AxeBehavior.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/strategyPattern/characterExample/BoxAndArrowBehavior.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/strategyPattern/characterExample/BoxAndArrowBehavior.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/strategyPattern/characterExample/Character.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/strategyPattern/characterExample/Character.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/strategyPattern/characterExample/CharacterMiniSimulatorKt.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/strategyPattern/characterExample/CharacterMiniSimulatorKt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/strategyPattern/characterExample/King.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/strategyPattern/characterExample/King.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/strategyPattern/characterExample/KnifeBehavior.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/strategyPattern/characterExample/KnifeBehavior.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/strategyPattern/characterExample/Knight.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/strategyPattern/characterExample/Knight.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/strategyPattern/characterExample/Queen.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/strategyPattern/characterExample/Queen.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/strategyPattern/characterExample/SwordBehavior.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/strategyPattern/characterExample/SwordBehavior.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/strategyPattern/characterExample/Troll.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/strategyPattern/characterExample/Troll.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/strategyPattern/characterExample/WeaponBehavior.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/strategyPattern/characterExample/WeaponBehavior.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/strategyPattern/duckUSimple/Duck.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/strategyPattern/duckUSimple/Duck.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/strategyPattern/duckUSimple/FlyBehavior.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/strategyPattern/duckUSimple/FlyBehavior.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/strategyPattern/duckUSimple/FlyNoWay.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/strategyPattern/duckUSimple/FlyNoWay.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/strategyPattern/duckUSimple/FlyRocketPowered.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/strategyPattern/duckUSimple/FlyRocketPowered.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/strategyPattern/duckUSimple/FlyWithWings.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/strategyPattern/duckUSimple/FlyWithWings.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/strategyPattern/duckUSimple/MallarDuck.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/strategyPattern/duckUSimple/MallarDuck.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/strategyPattern/duckUSimple/MiniDuckSimulatorKt.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/strategyPattern/duckUSimple/MiniDuckSimulatorKt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/strategyPattern/duckUSimple/ModelDuck.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/strategyPattern/duckUSimple/ModelDuck.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/strategyPattern/duckUSimple/MuteQuack.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/strategyPattern/duckUSimple/MuteQuack.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/strategyPattern/duckUSimple/Quack.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/strategyPattern/duckUSimple/Quack.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/strategyPattern/duckUSimple/QuackBehavior.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/strategyPattern/duckUSimple/QuackBehavior.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/strategyPattern/duckUSimple/Squeak.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/designpatternsbook/strategyPattern/duckUSimple/Squeak.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/exercies/car/Car.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/exercies/car/Car.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/exercies/car/CarListener.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/exercies/car/CarListener.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/exercies/car/MainKt$main$car$1.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/exercies/car/MainKt$main$car$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/exercies/car/MainKt.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/exercies/car/MainKt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/exercies/deneme/Try1Kt.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/exercies/deneme/Try1Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/exercies/deneme/Try2Kt.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/exercies/deneme/Try2Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/exercies/deneme/Try3Kt.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/exercies/deneme/Try3Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/exercies/deneme/Try4Kt.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/exercies/deneme/Try4Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/exercies/deneme/Try5Kt.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/exercies/deneme/Try5Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/exercies/deneme/Try6Kt$main$$inlined$sortedBy$1.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/exercies/deneme/Try6Kt$main$$inlined$sortedBy$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/exercies/deneme/Try6Kt$main$filteredAllElements$1.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/exercies/deneme/Try6Kt$main$filteredAllElements$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/exercies/deneme/Try6Kt$main$filteredSpecialElements$1.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/exercies/deneme/Try6Kt$main$filteredSpecialElements$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/exercies/deneme/Try6Kt$main$filteredTakeMethodUsage$1.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/exercies/deneme/Try6Kt$main$filteredTakeMethodUsage$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/exercies/deneme/Try6Kt.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/exercies/deneme/Try6Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/exercies/dependencyInjection/AndroidDeveloper.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/exercies/dependencyInjection/AndroidDeveloper.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/exercies/dependencyInjection/Customer.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/exercies/dependencyInjection/Customer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/exercies/dependencyInjection/IDeveloper$DefaultImpls.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/exercies/dependencyInjection/IDeveloper$DefaultImpls.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/exercies/dependencyInjection/IDeveloper.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/exercies/dependencyInjection/IDeveloper.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/exercies/dependencyInjection/IOSDeveloper.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/exercies/dependencyInjection/IOSDeveloper.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/exercies/dependencyInjection/MainKt.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/exercies/dependencyInjection/MainKt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/exercies/shopping/MainKt$main$1.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/exercies/shopping/MainKt$main$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/exercies/shopping/MainKt.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/exercies/shopping/MainKt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/exercies/shopping/User.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/exercies/shopping/User.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/exercies/shopping/WebSite.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/exercies/shopping/WebSite.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/exercies/shopping/WebSiteListener.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/exercies/shopping/WebSiteListener.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/exercies/warehouse/MainKt$main$2.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/exercies/warehouse/MainKt$main$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/exercies/warehouse/MainKt.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/exercies/warehouse/MainKt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/exercies/warehouse/Product.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/exercies/warehouse/Product.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/exercies/warehouse/ProductListener.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/exercies/warehouse/ProductListener.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/exercies/warehouse/Warehouse.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/exercies/warehouse/Warehouse.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/interview/A.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/interview/A.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/interview/Car.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/interview/Car.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/interview/Color$Blue.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/interview/Color$Blue.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/interview/Color$Orange.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/interview/Color$Orange.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/interview/Color$Red.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/interview/Color$Red.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/interview/Color.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/interview/Color.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/interview/Deneme.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/interview/Deneme.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/interview/Employee.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/interview/Employee.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/interview/EqualsAndStructuralOperatorKt.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/interview/EqualsAndStructuralOperatorKt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/interview/ExercisesAbstractClass.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/interview/ExercisesAbstractClass.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/interview/ExercisesAbstractClassKt$main$windowBehavior$1.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/interview/ExercisesAbstractClassKt$main$windowBehavior$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/interview/ExercisesAbstractClassKt.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/interview/ExercisesAbstractClassKt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/interview/ExtensionFunctionKt.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/interview/ExtensionFunctionKt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/interview/Foo$Companion.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/interview/Foo$Companion.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/interview/Foo.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/interview/Foo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/interview/Header.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/interview/Header.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/interview/OperatorOverloadingKt.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/interview/OperatorOverloadingKt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/interview/Parent.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/interview/Parent.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/interview/Person.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/interview/Person.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/interview/PolymorphismKt.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/interview/PolymorphismKt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/interview/SealedClassKt.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/interview/SealedClassKt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/interview/Subclass1.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/interview/Subclass1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/interview/Subclass2.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/interview/Subclass2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/interview/WindowBehavior.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/interview/WindowBehavior.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kata/Ogrenci.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kata/Ogrenci.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kata/OgrenciKt.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kata/OgrenciKt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kata/zoo/Animal.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kata/zoo/Animal.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kata/zoo/Flyable.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kata/zoo/Flyable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kata/zoo/ZooKt.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kata/zoo/ZooKt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kata/zoo/pet/Pet.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kata/zoo/pet/Pet.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kata/zoo/pet/Pigeon.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kata/zoo/pet/Pigeon.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter1/Examp1Kt.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter1/Examp1Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter1/Example2Kt.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter1/Example2Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter1/Okul$b$person2$1.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter1/Okul$b$person2$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter1/Okul.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter1/Okul.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter1/Person.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter1/Person.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter10/Cat.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter10/Cat.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter10/Contest.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter10/Contest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter10/Dog.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter10/Dog.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter10/Example23Kt.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter10/Example23Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter10/Fish.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter10/Fish.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter10/Pet.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter10/Pet.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter10/PetOwner.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter10/PetOwner.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter10/PetsKt.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter10/PetsKt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter11/Example24Kt$main$1.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter11/Example24Kt$main$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter11/Example24Kt$main$2.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter11/Example24Kt$main$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter11/Example24Kt$main$3.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter11/Example24Kt$main$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter11/Example24Kt$main$addFive$1.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter11/Example24Kt$main$addFive$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter11/Example24Kt$main$addInts$1.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter11/Example24Kt$main$addInts$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter11/Example24Kt$main$addTwo$1.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter11/Example24Kt$main$addTwo$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter11/Example24Kt$main$addTwoEquals$1.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter11/Example24Kt$main$addTwoEquals$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter11/Example24Kt$main$lam1$1.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter11/Example24Kt$main$lam1$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter11/Example24Kt$main$lam4$1.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter11/Example24Kt$main$lam4$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter11/Example24Kt$main$lamdaDeneme$1.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter11/Example24Kt$main$lamdaDeneme$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter11/Example24Kt$main$sum$1.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter11/Example24Kt$main$sum$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter11/Example24Kt.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter11/Example24Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter11/Example25Kt$main$1.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter11/Example25Kt$main$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter11/Example25Kt.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter11/Example25Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter11/Example26Kt$main$1.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter11/Example26Kt$main$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter11/Example26Kt$main$2.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter11/Example26Kt$main$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter11/Example26Kt$main$3.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter11/Example26Kt$main$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter11/Example26Kt.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter11/Example26Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter11/Example27Kt$myFun2$1.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter11/Example27Kt$myFun2$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter11/Example27Kt$myFun3$1.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter11/Example27Kt$myFun3$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter11/Example27Kt.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter11/Example27Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter11/Grocery.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter11/Grocery.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter11/LambdasKt$combine$1.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter11/LambdasKt$combine$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter11/LambdasKt$getConversionLambda$1.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter11/LambdasKt$getConversionLambda$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter11/LambdasKt$getConversionLambda$2.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter11/LambdasKt$getConversionLambda$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter11/LambdasKt$getConversionLambda$3.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter11/LambdasKt$getConversionLambda$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter11/LambdasKt$getConversionLambda$4.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter11/LambdasKt$getConversionLambda$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter11/LambdasKt.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter11/LambdasKt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter12/Cat.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter12/Cat.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter12/Contest.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter12/Contest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter12/Dog.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter12/Dog.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter12/Example28Kt.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter12/Example28Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter12/Example30Kt.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter12/Example30Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter12/Fish.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter12/Fish.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter12/Groceries.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter12/Groceries.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter12/Groceries2.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter12/Groceries2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter12/Groceries2Kt.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter12/Groceries2Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter12/Groceries3Kt.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter12/Groceries3Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter12/GroceriesKt.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter12/GroceriesKt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter12/Grocery3.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter12/Grocery3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter12/Pet.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter12/Pet.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter12/Pizza.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter12/Pizza.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter2/Example3Kt.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter2/Example3Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter2/Example4Kt.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter2/Example4Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter2/Example5Kt.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter2/Example5Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter2/Example6Kt.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter2/Example6Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter2/GameFuncKt.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter2/GameFuncKt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter2/PhraseOMatic/PhraseOMaticKt.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter2/PhraseOMatic/PhraseOMaticKt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter3/GameKt.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter3/GameKt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter4/DVDPlayer.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter4/DVDPlayer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter4/Dog.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter4/Dog.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter4/DogsKt.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter4/DogsKt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter4/DrumKit.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter4/DrumKit.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter4/DrumKitKt.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter4/DrumKitKt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter4/Example7Kt.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter4/Example7Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter4/Example8Kt.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter4/Example8Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter4/Rectangle.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter4/Rectangle.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter4/RectangleKt.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter4/RectangleKt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter4/Song.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter4/Song.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter4/SongsKt.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter4/SongsKt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter4/TapeDeck.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter4/TapeDeck.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter5/Animal.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter5/Animal.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter5/AnimalsKt.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter5/AnimalsKt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter5/Canine.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter5/Canine.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter5/Dragon.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter5/Dragon.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter5/Hippo.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter5/Hippo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter5/Monster.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter5/Monster.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter5/MonsterKt.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter5/MonsterKt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter5/Vampyre.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter5/Vampyre.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter5/Vet.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter5/Vet.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter5/Wolf.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter5/Wolf.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Alpha.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Alpha.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Animal.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Animal.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/AnimalsAbstractKt.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/AnimalsAbstractKt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Appliance.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Appliance.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Bar.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Bar.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Baz.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Baz.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Bird.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Bird.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Canine.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Canine.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Cheetah.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Cheetah.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/CoffeeMaker.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/CoffeeMaker.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Example11Kt.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Example11Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Example9Kt.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Example9Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Fee.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Fee.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Feline.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Feline.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Fi.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Fi.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Flyable$DefaultImpls.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Flyable$DefaultImpls.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Flyable.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Flyable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Fo.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Fo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Foo.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Foo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Fox.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Fox.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Fum.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Fum.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Hippo.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Hippo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Lion.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Lion.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Lynx.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Lynx.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Omege.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Omege.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Plane.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Plane.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Roamable.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Roamable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/SuperHero.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/SuperHero.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Tip.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Tip.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Top.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Top.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Vehicle.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Vehicle.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Vet.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Vet.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Wolf.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter6/Wolf.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter7/Example12Kt.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter7/Example12Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter7/Example13Kt.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter7/Example13Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter7/Movie.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter7/Movie.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter7/Mushroom.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter7/Mushroom.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter7/Recipe.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter7/Recipe.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter7/RecipesKt.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter7/RecipesKt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter7/Song.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter7/Song.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter7/Student.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter7/Student.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter8/AppKt.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter8/AppKt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter8/BadException.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter8/BadException.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter8/BadException2.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter8/BadException2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter8/Cat.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter8/Cat.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter8/Cat2.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter8/Cat2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter8/Cat3.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter8/Cat3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter8/Duck.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter8/Duck.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter8/Example14Kt.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter8/Example14Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter8/Example15Kt.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter8/Example15Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter8/Example16Kt.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter8/Example16Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter8/Example17Kt.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter8/Example17Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter8/Example18Kt.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter8/Example18Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter8/MyDucks.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter8/MyDucks.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter8/MyWolf.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter8/MyWolf.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter8/Wolf.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter8/Wolf.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter9/CollectionsKt.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter9/CollectionsKt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter9/Duck.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter9/Duck.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter9/Duck2.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter9/Duck2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter9/Duck3.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter9/Duck3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter9/Duck4.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter9/Duck4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter9/Example19Kt.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter9/Example19Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter9/Example20Kt.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter9/Example20Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter9/Example21Kt.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter9/Example21Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter9/Example22Kt.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter9/Example22Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter9/Example23Kt.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter9/Example23Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter9/ListCollectionsKt.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter9/ListCollectionsKt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter9/MutableCollectionsKt.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter9/MutableCollectionsKt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter9/Recipe3.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/kotlinbook/chapter9/Recipe3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/markdown-navigator.xml" afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinBook/basicalgorithmexercises/SwapTwoNumbersKt.class" afterPath="$PROJECT_DIR$/out/production/KotlinBook/basicalgorithmexercises/SwapTwoNumbersKt.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/basicalgorithmexercises/SwapTwoNumbers.kt" afterPath="$PROJECT_DIR$/src/basicalgorithmexercises/SwapTwoNumbers.kt" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -323,31 +300,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="PalindromWord.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/basicalgorithmexercises/PalindromWord.kt">
+      <file leaf-file-name="RemoveGapFromSentence.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/basicalgorithmexercises/RemoveGapFromSentence.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="22" column="14" lean-forward="false" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ReverseNumber.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/basicalgorithmexercises/ReverseNumber.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SwapTwoNumbers.kt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/basicalgorithmexercises/SwapTwoNumbers.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+            <state relative-caret-position="112">
+              <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -384,6 +341,9 @@
         <option value="$PROJECT_DIR$/src/basicalgorithmexercises/PalindromWord.kt" />
         <option value="$PROJECT_DIR$/src/basicalgorithmexercises/ReverseNumber.kt" />
         <option value="$PROJECT_DIR$/src/basicalgorithmexercises/SwapTwoNumbers.kt" />
+        <option value="$PROJECT_DIR$/src/basicalgorithmexercises/EvenOrOdd.kt" />
+        <option value="$PROJECT_DIR$/src/basicalgorithmexercises/FindTheFrequencyOfCharacter.kt" />
+        <option value="$PROJECT_DIR$/src/basicalgorithmexercises/RemoveGapFromSentence.kt" />
       </list>
     </option>
   </component>
@@ -473,19 +433,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.basicalgorithmexercises.SwapTwoNumbersKt">
-    <configuration name="MiniDuckSimulatorKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="designpatternsbook.strategyPattern.duckUSimple.MiniDuckSimulatorKt" />
-      <option name="WORKING_DIRECTORY" />
-      <module name="KotlinBook" />
-      <envs />
-    </configuration>
+  <component name="RunManager" selected="Kotlin.basicalgorithmexercises.RemoveGapFromSentenceKt">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -565,14 +513,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="basicalgorithmexercises.PalindromWordKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="basicalgorithmexercises.EvenOrOddKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="basicalgorithmexercises.PalindromWordKt" />
+      <option name="MAIN_CLASS_NAME" value="basicalgorithmexercises.EvenOrOddKt" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="KotlinBook" />
+      <envs />
+    </configuration>
+    <configuration name="basicalgorithmexercises.FindTheFrequencyOfCharacterKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="basicalgorithmexercises.FindTheFrequencyOfCharacterKt" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="KotlinBook" />
+      <envs />
+    </configuration>
+    <configuration name="basicalgorithmexercises.RemoveGapFromSentenceKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="basicalgorithmexercises.RemoveGapFromSentenceKt" />
       <option name="WORKING_DIRECTORY" />
       <module name="KotlinBook" />
       <envs />
@@ -601,32 +573,20 @@
       <module name="KotlinBook" />
       <envs />
     </configuration>
-    <configuration name="exercies.dependencyInjection.MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="exercies.dependencyInjection.MainKt" />
-      <option name="WORKING_DIRECTORY" />
-      <module name="KotlinBook" />
-      <envs />
-    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Kotlin.exercies.dependencyInjection.MainKt" />
-      <item index="1" class="java.lang.String" itemvalue="Kotlin.MiniDuckSimulatorKt" />
-      <item index="2" class="java.lang.String" itemvalue="Kotlin.basicalgorithmexercises.PalindromWordKt" />
-      <item index="3" class="java.lang.String" itemvalue="Kotlin.basicalgorithmexercises.ReverseNumberKt" />
-      <item index="4" class="java.lang.String" itemvalue="Kotlin.basicalgorithmexercises.SwapTwoNumbersKt" />
+      <item index="0" class="java.lang.String" itemvalue="Kotlin.basicalgorithmexercises.ReverseNumberKt" />
+      <item index="1" class="java.lang.String" itemvalue="Kotlin.basicalgorithmexercises.SwapTwoNumbersKt" />
+      <item index="2" class="java.lang.String" itemvalue="Kotlin.basicalgorithmexercises.EvenOrOddKt" />
+      <item index="3" class="java.lang.String" itemvalue="Kotlin.basicalgorithmexercises.FindTheFrequencyOfCharacterKt" />
+      <item index="4" class="java.lang.String" itemvalue="Kotlin.basicalgorithmexercises.RemoveGapFromSentenceKt" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Kotlin.basicalgorithmexercises.SwapTwoNumbersKt" />
-        <item index="1" class="java.lang.String" itemvalue="Kotlin.basicalgorithmexercises.ReverseNumberKt" />
-        <item index="2" class="java.lang.String" itemvalue="Kotlin.basicalgorithmexercises.PalindromWordKt" />
-        <item index="3" class="java.lang.String" itemvalue="Kotlin.MiniDuckSimulatorKt" />
-        <item index="4" class="java.lang.String" itemvalue="Kotlin.exercies.dependencyInjection.MainKt" />
+        <item index="0" class="java.lang.String" itemvalue="Kotlin.basicalgorithmexercises.RemoveGapFromSentenceKt" />
+        <item index="1" class="java.lang.String" itemvalue="Kotlin.basicalgorithmexercises.FindTheFrequencyOfCharacterKt" />
+        <item index="2" class="java.lang.String" itemvalue="Kotlin.basicalgorithmexercises.EvenOrOddKt" />
+        <item index="3" class="java.lang.String" itemvalue="Kotlin.basicalgorithmexercises.SwapTwoNumbersKt" />
+        <item index="4" class="java.lang.String" itemvalue="Kotlin.basicalgorithmexercises.ReverseNumberKt" />
       </list>
     </recent_temporary>
   </component>
@@ -668,7 +628,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40625" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40625" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -739,7 +699,7 @@
           <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="10" />
+      <option name="time" value="11" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -786,8 +746,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/basicalgorithmexercises/SwapTwoNumbers.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        <state relative-caret-position="462">
+          <caret line="33" column="1" lean-forward="true" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/basicalgorithmexercises/EvenOrOdd.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="19" column="5" lean-forward="false" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/basicalgorithmexercises/FindTheFrequencyOfCharacter.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/basicalgorithmexercises/RemoveGapFromSentence.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
           <folding />
         </state>
       </provider>
